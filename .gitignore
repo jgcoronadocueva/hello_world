@@ -1,3 +1,5 @@
+#FILES IGNORE IN THE COMMITS
+
 # Build results
 bin/
 obj/
