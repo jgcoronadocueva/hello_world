@@ -4,7 +4,7 @@ This project focuses on building a simple application to practice core programmi
 
 The goal is to start writing code in C# and .NET while learning to handle user input, string manipulation, and basic console operations. This will serve as a foundation for more advanced projects in the future.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Hello World in C# Demo](https://youtu.be/bpU2zs86CyE)
 
 # Development Environment
 
