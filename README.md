@@ -8,7 +8,9 @@ The goal is to start writing code in C# and .NET while learning to handle user i
 
 # Development Environment
 
-The software was developed using Visual Studio Code (VS Code) and the .NET SDK(Software Development Kit). C# was used as the programming language to build the application.
+The software was developed using Visual Studio Code (VS Code) and the .NET SDK(Software Development Kit).
+
+C# was used as the programming language to build the application.
 
 # Useful Websites
 
