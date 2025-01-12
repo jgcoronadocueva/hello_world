@@ -1,23 +1,15 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This project focuses on building a simple application to practice core programming concepts. The program asks for the user's name and displays a personalized greeting.
 
-{Provide a description of your software}
-
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+The goal is to start writing code in C# and .NET while learning to handle user input, string manipulation, and basic console operations. This will serve as a foundation for more advanced projects in the future.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
+The software was developed using Visual Studio Code (VS Code) and the .NET SDK(Software Development Kit). C# was used as the programming language to build the application.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+- [Microsoft Learn](https://learn.microsoft.com/en-us/dotnet/core/tutorials/with-visual-studio-code)
